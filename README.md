@@ -49,3 +49,23 @@
 ### Gamedev
 
 - ["Unity", Tomáš Holan](https://knihy.nic.cz/files/edice/Unity_prvni_seznameni_s_tvorbou_pocitacovych_her.pdf)
+
+
+## Čeští youtubeři
+
+### Informatika
+
+- [Informatika s Mišom (SK)](https://www.youtube.com/c/InformatikasMi%C5%A1om)
+
+### Python
+
+- [Conax](https://www.youtube.com/c/ConaxCoding): Python
+- [OtneT](https://www.youtube.com/user/theOtneT): Python
+
+### Gamedev
+
+- [Awanys](https://www.youtube.com/c/Awanys): Blender, Unity
+
+### Meetupy, konference apod.
+
+- [InstallFest](https://www.youtube.com/c/InstallfestCz)
